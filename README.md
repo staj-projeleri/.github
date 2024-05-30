@@ -1,0 +1,2 @@
+# .github
+Staj Projeleri
